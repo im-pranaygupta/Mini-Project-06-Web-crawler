@@ -1,1 +1,1 @@
-# Mini-Project-06-Web-crawler
+# Mini Project-06: Web crawler (Email Scraper)
